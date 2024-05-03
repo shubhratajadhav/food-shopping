@@ -1,0 +1,16 @@
+.header_color{
+    background-color: #a7c0dc;
+}
+
+.menu_bg{
+    background-color: orange !important;
+}
+.image_size{
+    height: 250px;
+   width: 200px;
+   text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
